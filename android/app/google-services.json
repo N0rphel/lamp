@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "519107894617",
+    "project_id": "firelamp-ea3fe",
+    "storage_bucket": "firelamp-ea3fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519107894617:android:fdb42b72cd6b9f3f8ac048",
+        "android_client_info": {
+          "package_name": "com.example.lamp_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxXZq3BziiOhMpLrw9MPT4Ucbw3UUdzHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
